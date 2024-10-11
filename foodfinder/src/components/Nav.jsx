@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../assets/logo.webp";
+import Logo from "../assets/logo.jpeg";
 import { Link, useNavigate } from "react-router-dom";
 import { FaBars } from "react-icons/fa";
 import MenuNav from "./MenuNav";

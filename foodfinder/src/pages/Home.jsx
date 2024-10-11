@@ -1,5 +1,5 @@
 import "./pages.css";
-import Logo from "../assets/logo.webp";
+import Logo from "../assets/logo.jpeg";
 import HomeImage from "../assets/homeImage.jpg"
 import { useNavigate } from "react-router-dom";
 
