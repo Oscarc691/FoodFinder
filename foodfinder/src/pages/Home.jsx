@@ -19,7 +19,7 @@ const Home = () => {
           <img src={Logo} className="home__img--logo" alt="" />
           <div className="home__right--bottom">
             <h1 className="home__right--slogan">
-              We Publish Only the Best Popular Recipe For You!
+             Find the best recipes here!!
             </h1>
             <button
               onClick={() => navigate("/categories")}

@@ -107,7 +107,7 @@
 }
 
 .category__card:hover .category__name {
-    color: #2bff2f;
+    color: black;
 }
 
 /* skeleton */
@@ -206,8 +206,8 @@
 }
 
 .category__choice--name:hover {
-    background-color: #2bff8e;
-    color: #0cd86e;
+    background-color: #f5f7f6;
+    color: black;
 }
 
 .recipes {
